@@ -12,4 +12,4 @@ yarn dev
 
 ![Descrição da Imagem Print 01](/public/print01.png)
 
-![Descrição da Imagem Print 02](/public/print02.png)
+![Descrição da Imagem Print 02](/public/print02png)
